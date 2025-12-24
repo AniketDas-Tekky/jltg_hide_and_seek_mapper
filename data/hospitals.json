@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "01",
+    "name": "Chinese Hospital",
+    "latitude": 37.79543194,
+    "longitude": -122.4091568,
+    "address": "845 Jackson St, San Francisco, CA 94133"
+  },
+  {
+    "objectID": "02",
+    "name": "CPMC California Campus",
+    "latitude": 37.78644473,
+    "longitude": -122.4562381,
+    "address": "3700 California St, San Francisco, CA 94118"
+  },
+  {
+    "objectID": "03",
+    "name": "CPMC Davies Campus",
+    "latitude": 37.76829443,
+    "longitude": -122.4344964,
+    "address": "601 Duboce Ave, San Francisco, CA 94117"
+  },
+  {
+    "objectID": "04",
+    "name": "CPMC Pacific Heights",
+    "latitude": 37.79074118,
+    "longitude": -122.4316986,
+    "address": "2333 Buchanan St, San Francisco, CA 94115"
+  },
+  {
+    "objectID": "05",
+    "name": "CPMC Saint Luke’s",
+    "latitude": 37.74755265,
+    "longitude": -122.4211267,
+    "address": "3555 Cesar Chavez St, San Francisco, CA 94110"
+  },
+  {
+    "objectID": "06",
+    "name": "CPMC Van Ness",
+    "latitude": 37.7860309,
+    "longitude": -122.4222954,
+    "address": "1260 Franklin St, San Francisco, CA 94109"
+  },
+  {
+    "objectID": "07",
+    "name": "KP French Campus",
+    "latitude": 37.78029359,
+    "longitude": -122.4640179,
+    "address": "450 6th Ave, San Francisco, CA 94118"
+  },
+  {
+    "objectID": "08",
+    "name": "KP San Francisco Medical Center",
+    "latitude": 37.78264613,
+    "longitude": -122.4432386,
+    "address": "2425 Geary Blvd, San Francisco, CA 94115"
+  },
+  {
+    "objectID": "09",
+    "name": "Laguna Honda Hospital and Rehabilitation Center",
+    "latitude": 37.74908001,
+    "longitude": -122.4568888,
+    "address": "375 Laguna Honda Blvd, San Francisco, CA 94116"
+  },
+  {
+    "objectID": "10",
+    "name": "San Francisco General",
+    "latitude": 37.7554007,
+    "longitude": -122.405468,
+    "address": "1001 Potrero Ave, San Francisco, CA 94110"
+  },
+  {
+    "objectID": "11",
+    "name": "San Francisco VA Medical Center",
+    "latitude": 37.78235469,
+    "longitude": -122.5052857,
+    "address": "4150 Clement St, San Francisco, CA 94121"
+  },
+  {
+    "objectID": "12",
+    "name": "UCSF Health St Francis Hospital",
+    "latitude": 37.78957366,
+    "longitude": -122.4168379,
+    "address": "900 Hyde St, San Francisco, CA 94109"
+  },
+  {
+    "objectID": "13",
+    "name": "UCSF Medical Center Mission Bay",
+    "latitude": 37.76778493,
+    "longitude": -122.3921667,
+    "address": "1975 4th St, San Francisco, CA 94158"
+  },
+  {
+    "objectID": "14",
+    "name": "UCSF Medical Center Mount Zion",
+    "latitude": 37.78498813,
+    "longitude": -122.4391042,
+    "address": "1600 Divisadero St, San Francisco, CA 94115"
+  },
+  {
+    "objectID": "15",
+    "name": "UCSF Medical Center Parnassus",
+    "latitude": 37.76280568,
+    "longitude": -122.4580066,
+    "address": "505 Parnassus Ave, San Francisco, CA 94143"
+  },
+  {
+    "objectID": "16",
+    "name": "UCSF Saint Mary’s Medical Center",
+    "latitude": 37.77393444,
+    "longitude": -122.4538094,
+    "address": "450 Stanyan St, San Francisco, CA 94117"
+  }
+]

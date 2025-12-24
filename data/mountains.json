@@ -1,0 +1,130 @@
+[
+  {
+    "objectID": "01",
+    "name": "Mount Davidson",
+    "height": "925ft",
+    "maps_link": "Mt. Davidson",
+    "latitude": 37.73889839,
+    "longitude": -122.453842
+  },
+  {
+    "objectID": "02",
+    "name": "Mount Sutro",
+    "height": "911ft",
+    "maps_link": "Mt Sutro",
+    "latitude": 37.75825697,
+    "longitude": -122.4571905
+  },
+  {
+    "objectID": "03",
+    "name": "Twin Peaks*",
+    "height": "910ft (S), 904ft (N)",
+    "maps_link": "Twin Peaks",
+    "latitude": 37.7529024,
+    "longitude": -122.4474255
+  },
+  {
+    "objectID": "04",
+    "name": "Larsen Peak",
+    "height": "725ft",
+    "maps_link": "Larsen Peak",
+    "latitude": 37.74996637,
+    "longitude": -122.4698886
+  },
+  {
+    "objectID": "05",
+    "name": "Gold Mine Hill",
+    "height": "679ft",
+    "maps_link": "Gold Mine Hill",
+    "latitude": 37.74155812,
+    "longitude": -122.4376443
+  },
+  {
+    "objectID": "06",
+    "name": "Grand View",
+    "height": "666ft",
+    "maps_link": "Grandview Park",
+    "latitude": 37.75644755,
+    "longitude": -122.4717256
+  },
+  {
+    "objectID": "07",
+    "name": "Tank Hill",
+    "height": "650ft",
+    "maps_link": "Tank Hill Park",
+    "latitude": 37.7599124,
+    "longitude": -122.4476995
+  },
+  {
+    "objectID": "08",
+    "name": "Mount Olympus",
+    "height": "570ft",
+    "maps_link": "Mount Olympus Park",
+    "latitude": 37.76339571,
+    "longitude": -122.4455699
+  },
+  {
+    "objectID": "09",
+    "name": "Buena Vista Heights",
+    "height": "569ft",
+    "maps_link": "Upper Terrace Picnic Ground",
+    "latitude": 37.76783167,
+    "longitude": -122.4415335
+  },
+  {
+    "objectID": "10",
+    "name": "Lakeview and Ashton Mini Park",
+    "height": "525ft",
+    "maps_link": "Lakeview and Ashton Mini Park",
+    "latitude": 37.71805511,
+    "longitude": -122.4625737
+  },
+  {
+    "objectID": "11",
+    "name": "Visitacion Knob (McLaren Park)",
+    "height": "515ft",
+    "maps_link": "Visitacion Knob",
+    "latitude": 37.71915231,
+    "longitude": -122.4219328
+  },
+  {
+    "objectID": "12",
+    "name": "Corona Heights",
+    "height": "510ft",
+    "maps_link": "Corona Heights Park",
+    "latitude": 37.76532024,
+    "longitude": -122.438578
+  },
+  {
+    "objectID": "13",
+    "name": "Bayview Hill",
+    "height": "500ft",
+    "maps_link": "Bayview Park",
+    "latitude": 37.71545558,
+    "longitude": -122.3929046
+  },
+  {
+    "objectID": "14",
+    "name": "Bernal Heights",
+    "height": "450ft",
+    "maps_link": "Bernal Heights Park",
+    "latitude": 37.7430406,
+    "longitude": -122.4136342
+  },
+  {
+    "objectID": "15",
+    "name": "Strawberry Hill",
+    "height": "412ft",
+    "maps_link": "Strawberry Hill",
+    "latitude": 37.76867649,
+    "longitude": -122.4753016
+  },
+  {
+    "objectID": "16",
+    "name": "Lone Mountain",
+    "height": "400ft",
+    "maps_link": "University of San Francisco",
+    "latitude": 37.77658126,
+    "longitude": -122.4507063
+  }
+]

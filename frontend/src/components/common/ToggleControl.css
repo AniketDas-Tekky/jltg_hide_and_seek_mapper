@@ -1,0 +1,130 @@
+.map-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  user-select: none;
+  padding: 0.4rem 0;
+  min-height: 40px; /* Touch-friendly minimum height */
+}
+
+.toggle-label {
+  flex: 1;
+  line-height: 1.4;
+}
+
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 44px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.toggle-switch input[type="checkbox"] {
+  opacity: 0;
+  width: 0;
+  height: 0;
+  position: absolute;
+}
+
+.toggle-slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: 0.3s;
+  border-radius: 24px;
+}
+
+.toggle-slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+  transition: 0.3s;
+  border-radius: 50%;
+}
+
+.toggle-switch input:checked + .toggle-slider {
+  background-color: #3388ff;
+}
+
+.toggle-switch input:focus + .toggle-slider {
+  box-shadow: 0 0 1px #3388ff;
+}
+
+.toggle-switch input:checked + .toggle-slider:before {
+  transform: translateX(20px);
+}
+
+.toggle-switch input:disabled + .toggle-slider {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.toggle-switch input:disabled + .toggle-slider:before {
+  cursor: not-allowed;
+}
+
+.toggle-indent {
+  padding-left: 1rem;
+}
+
+.toggle-indent .toggle-label {
+  font-size: 0.85rem;
+  color: #666;
+}
+
+/* Mobile styles - larger touch targets */
+@media (max-width: 768px) {
+  .map-toggle {
+    padding: 0.5rem 0;
+    min-height: 44px; /* iOS recommended touch target size */
+    gap: 1rem;
+  }
+
+  .toggle-label {
+    font-size: 0.95rem;
+  }
+
+  .toggle-switch {
+    width: 50px;
+    height: 28px;
+  }
+
+  .toggle-slider:before {
+    height: 22px;
+    width: 22px;
+    left: 3px;
+    bottom: 3px;
+  }
+
+  .toggle-switch input:checked + .toggle-slider:before {
+    transform: translateX(22px);
+  }
+
+  .toggle-indent .toggle-label {
+    font-size: 0.9rem;
+  }
+}
+
+/* Small mobile devices */
+@media (max-width: 480px) {
+  .map-toggle {
+    padding: 0.45rem 0;
+    min-height: 42px;
+  }
+
+  .toggle-label {
+    font-size: 0.9rem;
+  }
+}

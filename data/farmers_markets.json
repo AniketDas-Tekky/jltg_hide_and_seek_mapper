@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "01",
+    "name": "Alemany Farmers Market",
+    "latitude": 37.73577285,
+    "longitude": -122.4098459,
+    "maps_link": "Alemany Farmer's Market"
+  },
+  {
+    "objectID": "02",
+    "name": "Fillmore Farmers Market",
+    "latitude": 37.7833252,
+    "longitude": -122.4330627,
+    "maps_link": "Fillmore Farmers' Market"
+  },
+  {
+    "objectID": "03",
+    "name": "Ferry Plaza Farmers Market",
+    "latitude": 37.7953472,
+    "longitude": -122.3935994,
+    "maps_link": "Ferry Plaza Farmers Market"
+  },
+  {
+    "objectID": "04",
+    "name": "Noe Valley Farmers Market",
+    "latitude": 37.75146749,
+    "longitude": -122.428925,
+    "maps_link": "Noe Valley Farmers Market"
+  },
+  {
+    "objectID": "05",
+    "name": "North Beach Farmers Market",
+    "latitude": 37.8017981,
+    "longitude": -122.4116359,
+    "maps_link": "North Beach Farmers Market"
+  },
+  {
+    "objectID": "06",
+    "name": "Clement St Farmers Market",
+    "latitude": 37.78323237,
+    "longitude": -122.4618747,
+    "maps_link": "Clement Street Farmer's Market"
+  },
+  {
+    "objectID": "07",
+    "name": "Divisadero Farmers Market",
+    "latitude": 37.77341061,
+    "longitude": -122.4402903,
+    "maps_link": "Divisadero Farmers' Market"
+  },
+  {
+    "objectID": "08",
+    "name": "Fort Mason Farmers Market",
+    "latitude": 37.80615617,
+    "longitude": -122.4312927,
+    "maps_link": "Fort Mason Center Farmers' Market"
+  },
+  {
+    "objectID": "09",
+    "name": "Heart of the City Farmers Market",
+    "latitude": 37.77974182,
+    "longitude": -122.4159245,
+    "maps_link": "Heart of the City Farmers' Market"
+  },
+  {
+    "objectID": "10",
+    "name": "Inner Sunset Farmers Market",
+    "latitude": 37.7636214,
+    "longitude": -122.4657233,
+    "maps_link": "Inner Sunset Farmers' Market"
+  },
+  {
+    "objectID": "11",
+    "name": "Outer Sunset Farmers Market & Mercantile",
+    "latitude": 37.75094528,
+    "longitude": -122.4956179,
+    "maps_link": "Outer Sunset Farmer's Market & Mercantile"
+  },
+  {
+    "objectID": "12",
+    "name": "Stonestown Farmers Market",
+    "latitude": 37.72987636,
+    "longitude": -122.4792651,
+    "maps_link": "Stonestown Farmers Market"
+  },
+  {
+    "objectID": "13",
+    "name": "Castro Farmers Market",
+    "latitude": 37.76456399,
+    "longitude": -122.4333148,
+    "maps_link": "Castro Farmers' Market"
+  },
+  {
+    "objectID": "14",
+    "name": "Associated Students Farmers Market",
+    "latitude": 37.72229958,
+    "longitude": -122.4805217,
+    "maps_link": "Associated Students Farmers Market"
+  },
+  {
+    "objectID": "15",
+    "name": "VA San Francisco Farmers Market",
+    "latitude": 37.78172086,
+    "longitude": -122.5038209,
+    "maps_link": "VA San Francisco Farmer's Market"
+  },
+  {
+    "objectID": "16",
+    "name": "Mission Community Market",
+    "latitude": 37.75567515,
+    "longitude": -122.4197452,
+    "maps_link": "Mission Community Market"
+  },
+  {
+    "objectID": "17",
+    "name": "San Francisco Farmers Market at Crocker Galleria",
+    "latitude": 37.78961677,
+    "longitude": -122.4029241,
+    "maps_link": "San Francisco Farmers' Market at Crocker Galleria"
+  }
+]

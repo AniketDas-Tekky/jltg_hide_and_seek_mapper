@@ -1,0 +1,50 @@
+[
+  {
+    "objectID": "01",
+    "name": "Gleneagles",
+    "latitude": 37.71605297,
+    "longitude": -122.4244105
+  },
+  {
+    "objectID": "02",
+    "name": "Golden Gate Park Golf Course",
+    "latitude": 37.76960868,
+    "longitude": -122.5076619
+  },
+  {
+    "objectID": "03",
+    "name": "Lincoln Park Golf Course",
+    "latitude": 37.78239227,
+    "longitude": -122.4944265
+  },
+  {
+    "objectID": "04",
+    "name": "TPC Fleming Golf Course",
+    "latitude": 37.72581102,
+    "longitude": -122.491034
+  },
+  {
+    "objectID": "05",
+    "name": "TPC Harding Golf Course",
+    "latitude": 37.72494296,
+    "longitude": -122.4932013
+  },
+  {
+    "objectID": "06",
+    "name": "San Francisco Golf Club",
+    "latitude": 37.71227933,
+    "longitude": -122.47748
+  },
+  {
+    "objectID": "07",
+    "name": "The Olympic Club",
+    "latitude": 37.70868706,
+    "longitude": -122.493262
+  },
+  {
+    "objectID": "08",
+    "name": "Presidio Golf Course",
+    "latitude": 37.79060038,
+    "longitude": -122.4597914
+  }
+]

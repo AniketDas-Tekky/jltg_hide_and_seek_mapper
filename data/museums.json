@@ -1,0 +1,74 @@
+[
+  {
+    "objectID": "05",
+    "name": "Asian Art Museum of San Francisco",
+    "latitude": 37.7803,
+    "longitude": -122.4161,
+    "maps_link": "Asian Art Museum",
+    "address": "200 Larkin St, San Francisco, CA 94102"
+  },
+  {
+    "objectID": "08",
+    "name": "The Cable Car Museum",
+    "latitude": 37.7947,
+    "longitude": -122.4108,
+    "maps_link": "Cable Car Museum",
+    "address": "1201 Mason St, San Francisco, CA 94108"
+  },
+  {
+    "objectID": "09",
+    "name": "California Academy of Sciences",
+    "latitude": 37.7699,
+    "longitude": -122.4661,
+    "maps_link": "California Academy of Sciences",
+    "address": "55 Music Concourse Dr, San Francisco, CA 94118"
+  },
+  {
+    "objectID": "13",
+    "name": "Conservatory of Flowers",
+    "latitude": 37.7719,
+    "longitude": -122.4612,
+    "maps_link": "Conservatory of Flowers",
+    "address": "100 John F Kennedy Dr, San Francisco, CA 94118"
+  },
+  {
+    "objectID": "14",
+    "name": "The Contemporary Jewish Museum",
+    "latitude": 37.7874,
+    "longitude": -122.4032,
+    "maps_link": "The Contemporary Jewish Museum",
+    "address": "736 Mission St, San Francisco, CA 94103"
+  },
+  {
+    "objectID": "15",
+    "name": "de Young Museum",
+    "latitude": 37.7705,
+    "longitude": -122.4689,
+    "maps_link": "de Young Museum",
+    "address": "50 Hagiwara Tea Garden Dr, San Francisco, CA 94118"
+  },
+  {
+    "objectID": "16",
+    "name": "Exploratorium",
+    "latitude": 37.8017,
+    "longitude": -122.3976,
+    "maps_link": "Exploratorium",
+    "address": "Pier 15 Embarcadero at, Green St, San Francisco, CA 94111"
+  },
+  {
+    "objectID": "23",
+    "name": "Legion of Honor",
+    "latitude": 37.7846,
+    "longitude": -122.5007,
+    "maps_link": "Legion of Honor",
+    "address": "100 34th Ave, San Francisco, CA 94121"
+  },
+  {
+    "objectID": "41",
+    "name": "SFMOMA",
+    "latitude": 37.7857,
+    "longitude": -122.4011,
+    "maps_link": "San Francisco Museum of Modern Art",
+    "address": "151 3rd St, San Francisco, CA 94103"
+  }
+]

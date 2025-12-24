@@ -1,13 +1,6 @@
-from fastapi import FastAPI
+"""
+Application entry point for uvicorn.
+"""
+from src.main import app
 
-app = FastAPI()
-
-
-@app.get("/")
-async def root():
-    return {"message": "Hello World"}
-
-
-@app.get("/hello/{name}")
-async def say_hello(name: str):
-    return {"message": f"Hello {name}"}
+__all__ = ["app"]

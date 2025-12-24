@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "01",
+    "name": "Alamo Square",
+    "gmaps_link": "Alamo Square Dog Play Area",
+    "latitude": 37.77614736,
+    "longitude": -122.4354808
+  },
+  {
+    "objectID": "02",
+    "name": "Alta Plaza",
+    "gmaps_link": "Alta Plaza Dog Play Area",
+    "latitude": 37.79072071,
+    "longitude": -122.4365923
+  },
+  {
+    "objectID": "03",
+    "name": "Balboa Park",
+    "gmaps_link": "Balboa Dog Play Area",
+    "latitude": 37.7265651,
+    "longitude": -122.4436231
+  },
+  {
+    "objectID": "04",
+    "name": "Bernal Heights",
+    "gmaps_link": "Bernal Heights Dog Play Area",
+    "latitude": 37.74291415,
+    "longitude": -122.4119278
+  },
+  {
+    "objectID": "05",
+    "name": "Berry Street",
+    "gmaps_link": "Berry Street Dog Park",
+    "latitude": 37.77080379,
+    "longitude": -122.3992632
+  },
+  {
+    "objectID": "06",
+    "name": "Buena Vista",
+    "gmaps_link": "Buena Vista Dog Play Area",
+    "latitude": 37.76876819,
+    "longitude": -122.4427066
+  },
+  {
+    "objectID": "07",
+    "name": "Channel Street",
+    "gmaps_link": "Channel Street Dog Park",
+    "latitude": 37.77238596,
+    "longitude": -122.3934942
+  },
+  {
+    "objectID": "08",
+    "name": "Corona Heights",
+    "gmaps_link": "Corona Heights Dog Run",
+    "latitude": 37.76537452,
+    "longitude": -122.440161
+  },
+  {
+    "objectID": "09",
+    "name": "Crocker Amazon",
+    "gmaps_link": "Crocker Amazon Playground Park",
+    "latitude": 37.71453742,
+    "longitude": -122.4305453
+  },
+  {
+    "objectID": "10",
+    "name": "Duboce Park",
+    "gmaps_link": "Duboce Park Dog Play Area",
+    "latitude": 37.76966968,
+    "longitude": -122.4324871
+  },
+  {
+    "objectID": "11",
+    "name": "Eureka Valley",
+    "gmaps_link": "Eureka Valley Dog Play Area",
+    "latitude": 37.7598002,
+    "longitude": -122.4363311
+  },
+  {
+    "objectID": "12",
+    "name": "Francisco Park",
+    "gmaps_link": "Francisco Park",
+    "latitude": 37.80442691,
+    "longitude": -122.4209884
+  },
+  {
+    "objectID": "13",
+    "name": "GGP #1",
+    "gmaps_link": "GGP Dog Play Area 1",
+    "latitude": 37.76716417,
+    "longitude": -122.4604707
+  },
+  {
+    "objectID": "14",
+    "name": "GGP #2",
+    "gmaps_link": "GGP Dog Play Area 2",
+    "latitude": 37.77394854,
+    "longitude": -122.4570864
+  },
+  {
+    "objectID": "15",
+    "name": "GGP #3",
+    "gmaps_link": "GGP Dog Play Area 3",
+    "latitude": 37.76618709,
+    "longitude": -122.49523
+  },
+  {
+    "objectID": "16",
+    "name": "GGP Training Area",
+    "gmaps_link": "Golden Gate Park Dog Training Area",
+    "latitude": 37.77112095,
+    "longitude": -122.4993059
+  },
+  {
+    "objectID": "17",
+    "name": "Jefferson Square",
+    "gmaps_link": "Jefferson Square Dog Play Area",
+    "latitude": 37.78166829,
+    "longitude": -122.426812
+  },
+  {
+    "objectID": "18",
+    "name": "Lafayette Park",
+    "gmaps_link": "Lafayette Park Dog Play Area",
+    "latitude": 37.79110728,
+    "longitude": -122.4273265
+  },
+  {
+    "objectID": "19",
+    "name": "McKinley Square",
+    "gmaps_link": "McKinley Square Dog Play Area",
+    "latitude": 37.75905717,
+    "longitude": -122.4048677
+  },
+  {
+    "objectID": "20",
+    "name": "McLaren Shelley",
+    "gmaps_link": "McLaren Park Dog Play Area",
+    "latitude": 37.71959195,
+    "longitude": -122.4189682
+  },
+  {
+    "objectID": "21",
+    "name": "McLaren Geneva",
+    "gmaps_link": "McLaren Park Dog Play Area 2",
+    "latitude": 37.71502009,
+    "longitude": -122.4273544
+  },
+  {
+    "objectID": "22",
+    "name": "Mission Dolores N",
+    "gmaps_link": "Mission Dolores Dog Play Area North",
+    "latitude": 37.76036902,
+    "longitude": -122.4264088
+  },
+  {
+    "objectID": "23",
+    "name": "Mission Dolores S",
+    "gmaps_link": "Mission Dolores Dog Play Area South",
+    "latitude": 37.75935059,
+    "longitude": -122.4273326
+  },
+  {
+    "objectID": "24",
+    "name": "Moscone",
+    "gmaps_link": "Dog Park | Moscone Park",
+    "latitude": 37.80167666,
+    "longitude": -122.4345456
+  },
+  {
+    "objectID": "25",
+    "name": "Mountain Lake Park",
+    "gmaps_link": "Mountain Lake Park Dog Play Area",
+    "latitude": 37.78739448,
+    "longitude": -122.4668902
+  },
+  {
+    "objectID": "26",
+    "name": "Pine Lake Park",
+    "gmaps_link": "Pine Lake Park",
+    "latitude": 37.73595577,
+    "longitude": -122.4859688
+  },
+  {
+    "objectID": "27",
+    "name": "Potrero Hill",
+    "gmaps_link": "Potrero Hill Dog Play Area",
+    "latitude": 37.75710508,
+    "longitude": -122.3963822
+  },
+  {
+    "objectID": "28",
+    "name": "SoMa West",
+    "gmaps_link": "SoMa West Dog Park",
+    "latitude": 37.77019987,
+    "longitude": -122.4217602
+  },
+  {
+    "objectID": "29",
+    "name": "Stern Grove",
+    "gmaps_link": "Stern Grove Dog Play Area",
+    "latitude": 37.73500273,
+    "longitude": -122.4763043
+  },
+  {
+    "objectID": "30",
+    "name": "UN Plaza",
+    "gmaps_link": "U.N. Plaza Dog Park",
+    "latitude": 37.7806792,
+    "longitude": -122.4137024
+  },
+  {
+    "objectID": "31",
+    "name": "Upper Douglass",
+    "gmaps_link": "Upper Douglass Dog Play Area",
+    "latitude": 37.74647078,
+    "longitude": -122.4384444
+  },
+  {
+    "objectID": "32",
+    "name": "Upper Noe",
+    "gmaps_link": "Upper Noe Dog Play Area",
+    "latitude": 37.74261523,
+    "longitude": -122.4271052
+  },
+  {
+    "objectID": "33",
+    "name": "Walter Haas",
+    "gmaps_link": "Walter Haas Dog Play Area",
+    "latitude": 37.74029001,
+    "longitude": -122.4354972
+  }
+]

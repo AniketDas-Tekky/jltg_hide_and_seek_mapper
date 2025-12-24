@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "01",
+    "name": "Anza",
+    "latitude": 37.77874605,
+    "longitude": -122.4972182,
+    "maps_link": "Anza Branch Library"
+  },
+  {
+    "objectID": "02",
+    "name": "Bayview",
+    "latitude": 37.73272623,
+    "longitude": -122.391282,
+    "maps_link": "Bayview Linda Brooks-Burton Branch Library"
+  },
+  {
+    "objectID": "03",
+    "name": "Bernal",
+    "latitude": 37.73896564,
+    "longitude": -122.416134,
+    "maps_link": "Bernal Heights Branch Library"
+  },
+  {
+    "objectID": "04",
+    "name": "Chinatown",
+    "latitude": 37.79528053,
+    "longitude": -122.4101716,
+    "maps_link": "Chinatown Him Mark Lai Library"
+  },
+  {
+    "objectID": "05",
+    "name": "Eureka Valley",
+    "latitude": 37.76422128,
+    "longitude": -122.4319964,
+    "maps_link": "Eureka Valley/Harvey Milk Memorial Branch Library"
+  },
+  {
+    "objectID": "06",
+    "name": "Excelsior",
+    "latitude": 37.72716637,
+    "longitude": -122.4332047,
+    "maps_link": "Excelsior Branch Library"
+  },
+  {
+    "objectID": "07",
+    "name": "Glen Park",
+    "latitude": 37.73395364,
+    "longitude": -122.4337485,
+    "maps_link": "Glen Park Branch Library"
+  },
+  {
+    "objectID": "08",
+    "name": "Golden Gate Valley",
+    "latitude": 37.79719676,
+    "longitude": -122.4289945,
+    "maps_link": "Golden Gate Valley Library"
+  },
+  {
+    "objectID": "09",
+    "name": "Ingleside",
+    "latitude": 37.7241157,
+    "longitude": -122.4562648,
+    "maps_link": "Ingleside Branch Library"
+  },
+  {
+    "objectID": "10",
+    "name": "Main Branch",
+    "latitude": 37.77921253,
+    "longitude": -122.4157857,
+    "maps_link": "Main Library - San Francisco Public Library"
+  },
+  {
+    "objectID": "11",
+    "name": "Marina",
+    "latitude": 37.80148902,
+    "longitude": -122.4340975,
+    "maps_link": "Marina Branch Library"
+  },
+  {
+    "objectID": "12",
+    "name": "Merced",
+    "latitude": 37.72669378,
+    "longitude": -122.4743514,
+    "maps_link": "Merced Branch Library"
+  },
+  {
+    "objectID": "13",
+    "name": "Mission",
+    "latitude": 37.7531744,
+    "longitude": -122.420938,
+    "maps_link": "Mission Branch Library"
+  },
+  {
+    "objectID": "14",
+    "name": "Mission Bay",
+    "latitude": 37.77552937,
+    "longitude": -122.3930971,
+    "maps_link": "San Francisco Public Library: Mission Bay"
+  },
+  {
+    "objectID": "15",
+    "name": "Noe Valley",
+    "latitude": 37.75046438,
+    "longitude": -122.4350912,
+    "maps_link": "Noe Valley/Sally Brunn Branch Library"
+  },
+  {
+    "objectID": "16",
+    "name": "North Beach",
+    "latitude": 37.80266519,
+    "longitude": -122.4132528,
+    "maps_link": "North Beach Library"
+  },
+  {
+    "objectID": "17",
+    "name": "Ocean View",
+    "latitude": 37.71421793,
+    "longitude": -122.4659948,
+    "maps_link": "Ocean View Branch Library"
+  },
+  {
+    "objectID": "18",
+    "name": "Ortega",
+    "latitude": 37.75138453,
+    "longitude": -122.4980482,
+    "maps_link": "Ortega Branch Library"
+  },
+  {
+    "objectID": "19",
+    "name": "Park",
+    "latitude": 37.77033774,
+    "longitude": -122.4510285,
+    "maps_link": "Park Branch Library"
+  },
+  {
+    "objectID": "20",
+    "name": "Parkside",
+    "latitude": 37.7431039,
+    "longitude": -122.4793719,
+    "maps_link": "Parkside Branch Library"
+  },
+  {
+    "objectID": "21",
+    "name": "Portola",
+    "latitude": 37.72710674,
+    "longitude": -122.4065137,
+    "maps_link": "Portola Branch Library"
+  },
+  {
+    "objectID": "22",
+    "name": "Potrero",
+    "latitude": 37.76016647,
+    "longitude": -122.3976771,
+    "maps_link": "San Francisco Public Library; Potrero Branch"
+  },
+  {
+    "objectID": "23",
+    "name": "Presidio",
+    "latitude": 37.78895273,
+    "longitude": -122.4448495,
+    "maps_link": "Presidio Branch Library"
+  },
+  {
+    "objectID": "24",
+    "name": "Richmond",
+    "latitude": 37.78186652,
+    "longitude": -122.4681607,
+    "maps_link": "Richmond/Senator Milton Marks Branch Library"
+  },
+  {
+    "objectID": "25",
+    "name": "Sunset",
+    "latitude": 37.76345365,
+    "longitude": -122.4761833,
+    "maps_link": "Sunset Branch Library"
+  },
+  {
+    "objectID": "26",
+    "name": "Visitacion Valley",
+    "latitude": 37.7127045,
+    "longitude": -122.4078408,
+    "maps_link": "Visitacion Valley Branch Library"
+  },
+  {
+    "objectID": "27",
+    "name": "West Portal",
+    "latitude": 37.74137126,
+    "longitude": -122.4660668,
+    "maps_link": "West Portal Branch Library"
+  },
+  {
+    "objectID": "28",
+    "name": "Western Addition",
+    "latitude": 37.78415465,
+    "longitude": -122.4377666,
+    "maps_link": "Western Addition Library"
+  },
+  {
+    "objectID": "29",
+    "name": "Treasure Island",
+    "latitude": 37.82701496,
+    "longitude": -122.3707525,
+    "maps_link": "SFPL To-Go-Go Treasure Island"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "01",
+    "name": "Steinhart Aquarium",
+    "latitude": 37.76963839,
+    "longitude": -122.4661146,
+    "maps_link": "Steinhart Aquarium"
+  },
+  {
+    "objectID": "02",
+    "name": "Aquarium of the Bay",
+    "latitude": 37.80869155,
+    "longitude": -122.409318,
+    "maps_link": "Aquarium of the Bay"
+  }
+]

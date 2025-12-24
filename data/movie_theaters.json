@@ -1,0 +1,138 @@
+[
+  {
+    "objectID": "01",
+    "name": "4 Star Theater",
+    "latitude": 37.78227513,
+    "longitude": -122.4829045,
+    "maps_link": "4 Star Theater",
+    "address": "2200 Clement St, San Francisco, CA 94121"
+  },
+  {
+    "objectID": "02",
+    "name": "Alamo Drafthouse Cinema New Mission",
+    "latitude": 37.75627715,
+    "longitude": -122.4189868,
+    "maps_link": "Alamo Drafthouse Cinema New Mission",
+    "address": "2550 Mission St, San Francisco, CA 94110"
+  },
+  {
+    "objectID": "03",
+    "name": "AMC Kabuki 8",
+    "latitude": 37.78500331,
+    "longitude": -122.4325656,
+    "maps_link": "AMC Kabuki 8",
+    "address": "1881 Post St, San Francisco, CA 94115"
+  },
+  {
+    "objectID": "04",
+    "name": "AMC Metreon 16",
+    "latitude": 37.78442255,
+    "longitude": -122.4034199,
+    "maps_link": "IMAX at AMC Metreon 16",
+    "address": "135 4th St #3000, San Francisco, CA 94103"
+  },
+  {
+    "objectID": "05",
+    "name": "Balboa Theatre",
+    "latitude": 37.77589407,
+    "longitude": -122.497954,
+    "maps_link": "Balboa Theatre",
+    "address": "3630 Balboa St, San Francisco, CA 94121"
+  },
+  {
+    "objectID": "06",
+    "name": "Castro Theatre",
+    "latitude": 37.76204352,
+    "longitude": -122.434757,
+    "maps_link": "The Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114"
+  },
+  {
+    "objectID": "07",
+    "name": "Delancey Street Screening Room",
+    "latitude": 37.78430621,
+    "longitude": -122.3883686,
+    "maps_link": "Delancey Street Screening Room",
+    "address": "600 The Embarcadero, San Francisco, CA 94107"
+  },
+  {
+    "objectID": "08",
+    "name": "Landmark's Opera Plaza Cinema",
+    "latitude": 37.78124087,
+    "longitude": -122.4214209,
+    "maps_link": "Landmark's Opera Plaza Cinema",
+    "address": "601 Van Ness Ave, San Francisco, CA 94102"
+  },
+  {
+    "objectID": "09",
+    "name": "Marina Theater",
+    "latitude": 37.80042567,
+    "longitude": -122.4386341,
+    "maps_link": "Marina Theater",
+    "address": "2149 Chestnut St, San Francisco, CA 94123"
+  },
+  {
+    "objectID": "10",
+    "name": "Other Cinema",
+    "latitude": 37.75719308,
+    "longitude": -122.4213138,
+    "maps_link": "Other Cinema",
+    "address": "992 Valencia St, San Francisco, CA 94110"
+  },
+  {
+    "objectID": "11",
+    "name": "Phyllis Wattis Theater",
+    "latitude": 37.7860043,
+    "longitude": -122.4011167,
+    "maps_link": "Phyllis Wattis Theater",
+    "address": "151 3rd St, San Francisco, CA 94103"
+  },
+  {
+    "objectID": "12",
+    "name": "Presidio Movie Theater",
+    "latitude": 37.80027698,
+    "longitude": -122.4419416,
+    "maps_link": "Presidio Movie Theater",
+    "address": "2340 Chestnut St, San Francisco, CA 94123"
+  },
+  {
+    "objectID": "13",
+    "name": "Regal Stonestown Galleria",
+    "latitude": 37.72900892,
+    "longitude": -122.4764473,
+    "maps_link": "Regal Stonestown Galleria",
+    "address": "3251 20th Ave, San Francisco, CA 94132"
+  },
+  {
+    "objectID": "14",
+    "name": "Roxie Theater",
+    "latitude": 37.76466239,
+    "longitude": -122.4224009,
+    "maps_link": "Roxie Theater",
+    "address": "3117 16th St, San Francisco, CA 94103"
+  },
+  {
+    "objectID": "15",
+    "name": "Vogue Theatre",
+    "latitude": 37.78845195,
+    "longitude": -122.4467452,
+    "maps_link": "Vogue Theatre",
+    "address": "3290 Sacramento St, San Francisco, CA 94115"
+  },
+  {
+    "objectID": "16",
+    "name": "August Coppola Theatre",
+    "latitude": 37.72213757,
+    "longitude": -122.4792938,
+    "maps_link": "Coppola Theater",
+    "address": "Coppola Theatre, 1600 Holloway Ave, San Francisco, CA 94132"
+  },
+  {
+    "objectID": "17",
+    "name": "Apple Cinemas Van Ness IMAX",
+    "latitude": 37.78519308,
+    "longitude": -122.4209452,
+    "maps_link": "Apple Cinemas Van Ness IMAX",
+    "address": "1000 Van Ness Ave, San Francisco, CA 94109"
+  }
+]
